@@ -6,6 +6,7 @@ This project presents an interactive HR Analytics Dashboard built in Power BI, d
 
 The dashboard consolidates HR data such as employee demographics, education levels, job roles, salary structures, and attrition metrics, allowing decision-makers to identify workforce patterns and areas for improvement.
 
+
 ## 🎯 Objectives
 
 - Analyze overall headcount, attrition
