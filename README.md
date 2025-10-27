@@ -28,7 +28,7 @@ The dashboard consolidates HR data such as employee demographics, education leve
 
 ** ✅ Education Level Grouping
 
-Displays insights using simplified, user-friendly categories
+- Displays insights using simplified, user-friendly categories
 
 ** ✅ Attrition Analysis
 
